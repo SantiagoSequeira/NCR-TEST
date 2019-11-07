@@ -1,0 +1,70 @@
+* {
+  font-family: 'Varela Round', sans-serif;
+  color: #FFF;
+  font-weight: bold;
+}
+h1 {
+   color: #87cc41;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  background: #575454;
+}
+th {
+  padding-left: 20px;
+}
+.body {
+  padding-top: 30px;
+  background-color: #87cc41;
+  display: flex;
+  flex-wrap: wrap;
+}
+.table {
+  text-align: center;
+  font-size: 20px;
+  margin: 0 30px;
+}
+.gray {
+  color: #575454;
+}
+ion-icon {
+  color: #575454;
+  font-size: 30px;
+}
+p {
+  color: #87cc41;
+  background: #FFF;
+  border-radius: 50px;
+  width: 150px;
+  text-align: center;
+  font-size: 25px;
+  box-shadow: inset 0px 0px 7px 1px rgba(0,0,0,0.25);
+  margin: 10px 0 20px 0;
+  padding: 10px 25px;
+}
+.buttons {
+  width: 100%;
+  margin-top: 20px;
+}
+.total {
+  margin-left: 40px;
+}
+form {
+  display: flex;
+}
+form div {
+  width: 50%;
+  text-align: center;
+}
+button {
+  color: #FFF;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 35px;
+  background: #87cc41;
+  box-shadow: inset 0px 0px 7px 1px rgba(0,0,0,0.25);
+  border: 0;
+  width: 410px;
+  padding: 8px;
+}
